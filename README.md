@@ -1,8 +1,5 @@
-# 💫 About Me:
-🚀Computer Science Student Passionate about Problem Solving & Challenging Tasks <br> Seeking to Innovate & Learn Continuously 🌟
-
-
-## 🌐 Socials:
+#Hi there👋
+I am Khaled Ahmed, Computer Science Student Passionate about Problem Solving & Challenging Tasks <br> Seeking to Innovate & Learn Continuously
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100078403818346) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledahmad01) 
 
 # Languages
