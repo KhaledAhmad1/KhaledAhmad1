@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Description of image" width="200" height="200">
-</p>
-
 <h1 align="center">Hi there👋</h1>
-<p align="center">I am Khaled Ahmed, Computer Science Student Passionate about Problem Solving & Challenging Tasks. Seeking to Innovate & Learn Continuously.</p>
+<p align="center">I am Khaled Ahmed, Computer Science Student Passionate about Problem Solving & Challenging Tasks. <br> Seeking to Innovate & Learn Continuously.</p>
 <p align="center">
   <a href="https://facebook.com/100078403818346"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://linkedin.com/in/khaledahmad01"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ka44203011@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+
 
 
 # Languages
